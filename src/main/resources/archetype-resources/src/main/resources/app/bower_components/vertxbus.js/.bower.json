@@ -1,0 +1,11 @@
+{
+  "name": "vertxbus.js",
+  "_cacheHeaders": {
+    "Last-Modified": "Mon, 13 Jan 2014 18:19:25 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "main": "index.js",
+  "_source": "http://cdnjs.cloudflare.com/ajax/libs/vertx/2.0.0/vertxbus.js",
+  "_target": "*",
+  "_originalSource": "http://cdnjs.cloudflare.com/ajax/libs/vertx/2.0.0/vertxbus.js"
+}
