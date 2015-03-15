@@ -10,7 +10,6 @@ import io.vertx.core.http.HttpClientRequest;
 import io.vertx.ext.unit.Async;
 import io.vertx.ext.unit.TestContext;
 import io.vertx.ext.unit.junit.VertxUnitRunner;
-import nl.sogeti.MainVerticle;
 
 import org.junit.After;
 import org.junit.Before;
