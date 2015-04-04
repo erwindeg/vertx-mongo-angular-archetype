@@ -6,7 +6,7 @@
 	<version>${version}</version>
 	<description> An archetype for building Vertx3 applications with MongoDB and AngularJS</description>
 	<properties>
-		<vertx.version>3.0.0-mileston3</vertx.version>
+		<vertx.version>3.0.0-milestone3</vertx.version>
 	</properties>
 
 	<dependencies>
